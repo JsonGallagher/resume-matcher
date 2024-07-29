@@ -66,10 +66,6 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 This project uses the following license: [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
-
-If you want to contact the maintainer of this project, please email [your-email@example.com](mailto:your-email@example.com).
-
 ## Acknowledgements
 
 - [OpenAI](https://www.openai.com/) for providing the GPT-4 API
