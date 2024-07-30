@@ -4,7 +4,7 @@ Resume Matcher is a React-based web application that uses OpenAI's GPT-4 model t
 
 ## App Preview
 
-![App Preview 1](./images/app_previews/v1/App_Preview-v1_001.png)
+![App Preview 1](./images/app_previews/v1/App_Preview-v1_001-redacted.png)
 ![App Preview 2](./images/app_previews/v1/App_Preview-v1_002.png)
 
 ## Features
