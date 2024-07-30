@@ -2,6 +2,11 @@
 
 Resume Matcher is a React-based web application that uses OpenAI's GPT-4 model to match and tailor resumes to specific job descriptions. This tool helps job seekers quickly customize their resumes for different job applications, increasing their chances of getting noticed by recruiters and hiring managers.
 
+## App Preview
+
+![App Preview 1](./images/app_previews/v1/App_Preview-v1_001.png)
+![App Preview 2](./images/app_previews/v1/App_Preview-v1_002.png)
+
 ## Features
 
 - User-friendly interface for inputting job descriptions and resumes
